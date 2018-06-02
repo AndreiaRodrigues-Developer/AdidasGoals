@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdidasGoals</string>
+
+    <string name="goal_id">GoalId</string>
+</resources>
